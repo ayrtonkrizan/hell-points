@@ -1,0 +1,17 @@
+{
+    "rest-client.environmentVariables": {
+      "local": {
+        "API_URL": "http://localhost:5001/you-stocks/us-central1",
+        "API_TOKEN": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiRHRtQzlUd3R0WWU0WFllS2JlVFM4OTc5MmR2MSIsImlhdCI6MTYyODE3NzQ4NywiZXhwIjoxNjI4MTgxMDg3fQ.Vz8tsZdel2zqv0NV42Yrrz5e7xnv_S-9aTA-wGz_f4Kp-LQ5SMVqY01HJaotWzeeQZlXc-xznKEzVM26k6KjIkxI8JgutALoEWV30sfaEwQYrgU_MKmB_o_EkUtzO7w8F4ZjUIBMrKZ2xcC-dojsW1HhuvV-_bQ971kjHLJZD255E_6TRhPbBK6c0nS4X3GJDzfLUY7vrIFliFxEkI4QT-nhHutSon20aHm8lcmKONmU8lPho99pbQl_3batA0h8y4U-1B6vmynKPNfVBfrrX53mYOUrGRdCo2-ooNUcbVOQC2GKBpL8FRTwn1SrVDdNi_kzaTjiBZDyT2QcNzQLgA"
+      },
+      "develop": {
+        "API_URL": "http://localhost:5001/ultra50/us-central1/api",
+        "API_TOKEN": ""
+      },
+      "production": {
+        "API_URL": "https://us-central1-you-stocks.cloudfunctions.net",
+        "API_TOKEN": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjkwMDk1YmM2ZGM2ZDY3NzkxZDdkYTFlZWIxYTU1OWEzZDViMmM0ODYiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiQVlSVE9OIE0gS1JJWkFOIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2xvZGV0dGktZWNvbW1lcmNlIiwiYXVkIjoibG9kZXR0aS1lY29tbWVyY2UiLCJhdXRoX3RpbWUiOjE2Mjk4Mjk4NTYsInVzZXJfaWQiOiI5dktUdnlUZ2hSU1lYTE1HV1AydmgzUGFyR2kyIiwic3ViIjoiOXZLVHZ5VGdoUlNZWExNR1dQMnZoM1BhckdpMiIsImlhdCI6MTYyOTgyOTg1NiwiZXhwIjoxNjI5ODMzNDU2LCJlbWFpbCI6ImF5cnRvbmtyaXphbkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiYXlydG9ua3JpemFuQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.O0udeMFp_3aWAKYwqtFfi8Mh11MFtOz3GfVWWkGAsZqhYUCmoEjPTenLUxg-BiNRS_0Qpp3NXYsUm17xzHP3co-lAwetWdDftshfVmjHXHCpuaTxFk1KHrxwO876RqsXN5sfxzcTwlQKcqixVmFblTiiIzRuUlPZHAVE6E5OTie7ZPPHicHSI9AaFdrGMx30pptJcV8MfItjRz6xcrmCdI6te_JwlTqt1uAJNRJcUOxjty-ekTsPCX_5wL50DxXSJhgn4boGK3tVm2ZttNG4thz8guk8jMI3yQlBuBzsuiNe1_prBTIv_yY5Mk1ZLOYHKs9CPVdmWzlFq9pIwzORcQ"
+      }
+    }
+  }
+  

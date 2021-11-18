@@ -1,0 +1,16 @@
+*/node_modules/
+*/build/
+*/lib/
+*/.firebase/*
+*/yarn.lock
+*/.env
+*/.env.*
+.DS_Store
+node_modules/
+.firebase/*
+build/
+lib/
+*.log
+\.vscode/launch\.json
+.env
+.env.*
